@@ -1,0 +1,37 @@
+img {
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.intro {
+    background-color:  #E7E8D1;
+    width: 100%;
+}
+
+.cards {
+    background-color:#B85042;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+}
+
+.card {
+    margin: 20px;
+}
+
+header, footer{
+    background-color:  #A7BEAE;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+main {
+    padding: 0;
+}
